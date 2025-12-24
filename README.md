@@ -25,6 +25,5 @@ Smaller course assignments and experiments:
 - Repo: https://github.com/0x0checo/ml-coursework-archive
 
 ## Contact
-- Email: <your-email>
-- LinkedIn: <your-link>
-- Website: <your-link> (optional)
+- Email: jaosnlee020303@gmail.com
+- LinkedIn: https://www.linkedin.com/in/wenyuli020303/
