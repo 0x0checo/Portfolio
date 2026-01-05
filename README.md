@@ -6,6 +6,9 @@ Interests: NLP, Information Retrieval, Explainable AI (XAI), and ML engineering.
 - Tech: Python · PyTorch · Hugging Face · scikit-learn · Jupyter · Git
 - Focus: text classification · explanation methods · retrieval/ranking · evaluation
 
+**Here's my portfolio website:**
+https://wenyuportfolio.vercel.app/
+
 ## Featured Projects
 
 ### NLP-XAI: Integrated Gradients vs LIME vs Attention (BERT, SST-2)
